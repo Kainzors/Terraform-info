@@ -22,3 +22,5 @@ resource "azurerm_resource_group" "rg" {
     source = "terraform"
   }
 }
+
+test 1
