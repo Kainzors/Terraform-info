@@ -1,1 +1,2 @@
-<h1>#Welcome to my Terraform repository</h5>
+<h1>#Welcome to my Terraform study repository</h5>
+Here you can find all the info about my progress what I have tried out in terraform. It may not be professionally orginized because I am only using this for self study purposes.
